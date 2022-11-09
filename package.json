@@ -1,0 +1,12 @@
+{
+  "name": "my-rollup-project",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "build":"rollup -c"
+  },
+  "devDependencies": {
+    "rollup-plugin-json": "^4.0.0"
+  }
+}
